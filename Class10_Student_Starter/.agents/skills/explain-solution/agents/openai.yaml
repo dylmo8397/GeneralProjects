@@ -1,0 +1,5 @@
+interface:
+  display_name: "Explain RM Solution"
+  short_description: "Turn solver evidence into a concise managerial explanation."
+policy:
+  allow_implicit_invocation: false

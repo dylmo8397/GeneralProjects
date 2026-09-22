@@ -1,0 +1,5 @@
+interface:
+  display_name: "Compare RM Scenarios"
+  short_description: "Compare an approved airline scenario with baseline."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,17 @@
+Itinerary,FareClass,MeanDemand
+BC,Q,25
+BC,Y,20
+BS,Q,55
+BS,Y,40
+BL,Q,65
+BL,Y,25
+NC,Q,24
+NC,Y,16
+NS,Q,65
+NS,Y,50
+NL,Q,40
+NL,Y,35
+CS,Q,21
+CS,Y,20
+CL,Q,25
+CL,Y,14
