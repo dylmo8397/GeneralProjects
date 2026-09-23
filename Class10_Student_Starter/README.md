@@ -22,5 +22,17 @@ passes, and complete `MY_INTERFACE_SPEC.md`.
 
 Use `VIBE_CODING_PROMPTS.md` as prompt cards.
 
-The starter intentionally contains **no `app.py`**. Creating and iterating on
-that interface is the Class 10 activity.
+## Run the application on macOS
+
+Open `Class10_Student_Starter` as the VS Code workspace, then run:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+python -m streamlit run appV2.py
+```
+
+The included VS Code setting selects `.venv/bin/python` as the project
+interpreter. If VS Code was already open when the environment was created,
+reload the window before running the app.
